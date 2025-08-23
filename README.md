@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="FastAPI Microservices" width="600">
+</p>
 # ⚡ FastAPI Microservices
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
