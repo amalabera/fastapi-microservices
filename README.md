@@ -33,3 +33,11 @@ git clone https://github.com/amalabera/fastapi-microservices.git
 cd fastapi-microservices
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+## 📸 Demo
+
+### Users Endpoint
+Here’s a preview of the `/users/` API response:
+
+![Users API](assets/swagger-users.png)
+
