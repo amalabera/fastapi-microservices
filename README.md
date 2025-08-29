@@ -28,16 +28,22 @@ Scalable backend application built using **FastAPI**, containerized with **Docke
 ---
 
 ## 📦 Getting Started
+
 ```bash
+# Clone the repository
 git clone https://github.com/amalabera/fastapi-microservices.git
 cd fastapi-microservices
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 uvicorn app.main:app --reload
 
-## 📸 Demo
 
-### Users Endpoint
-Here’s a preview of the `/users/` API response:
+---
 
-![Users API](assets/swagger-users.png)
+
+
+
 
